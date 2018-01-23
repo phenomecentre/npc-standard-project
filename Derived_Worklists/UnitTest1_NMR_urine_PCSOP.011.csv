@@ -1,0 +1,10 @@
+Assay data name,Assay data location,Sample position,Sample batch,Assay protocol,Instrument,Acquisition batch,Sample ID,Status
+10,UnitTest1_Urine_Rack1_SLL_270814,A1,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S1_u1,Sample
+20,UnitTest1_Urine_Rack1_SLL_270814,A2,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S2_u1,Sample
+30,UnitTest1_Urine_Rack1_SLL_270814,A3,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S3_u1,Sample
+40,UnitTest1_Urine_Rack1_SLL_270814,A4,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S4_u1,Sample
+50,UnitTest1_Urine_Rack1_SLL_270814,A5,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S4_u2,Sample
+60,UnitTest1_Urine_Rack1_SLL_270814,A6,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S4_u3,Sample
+70,UnitTest1_Urine_Rack1_SLL_270814,A7,UnitTest1 urine 1,PCSOP.011,NMR01,1,UT1_S4_u4,Sample
+80,UnitTest1_Urine_Rack1_SLL_270814,A8,UnitTest1 urine 1,PCSOP.011,NMR01,1,,Long Term Reference
+90,UnitTest1_Urine_Rack1_SLL_270814,A9,UnitTest1 urine 1,PCSOP.011,NMR01,1,,Study Reference

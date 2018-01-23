@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 42	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2017-08-23 21:01:15.501 +0100  nmrsu@npc-nmr-01
+$$ C:/IVDrData/data/UnitTest1_Urine_Rack1_SLL_270814/21/acqu2s
+$$ process C:\Bruker\TopSpin3.5pl6\prog\mod\go4.exe
+##$ACQT0= 0
+##$BF1= 600.59
+##$FnMODE= 1
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 40
+##$O1= 2823.77999997152
+##$ProjAngle= 0
+##$SFO1= 600.59282378
+##$SW= 0.129893088012205
+##$SW_h= 78.0128565187543
+##$TD= 40
+##END=

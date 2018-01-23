@@ -1,0 +1,181 @@
+
+ACE Experimental Record
+
+
+Inlet Method File: e:\tof03.pro\acqudb\npc_rpc_final_detector_autoadjust
+
+---------------------   Run method parameters   ----------------
+
+-- PUMP --
+
+Waters Acquity SDS
+ Run Time: 12.65 min
+ Comment:  
+ Solvent Selection A: A1 
+ Solvent Selection B: B1 
+ Low Pressure Limit: 0 psi
+ High Pressure Limit: 15000 psi
+ Solvent Name A: Water 
+ Solvent Name B: Acetonitrile 
+ Switch 1: No Change 
+ Switch 2: No Change 
+ Switch 3: No Change 
+ Seal Wash: 0.5 min
+ Chart Out 1: System Pressure 
+ Chart Out 2: %B 
+ System Pressure Data Channel: Yes 
+ Flow Rate Data Channel: No 
+ %A Data Channel: No 
+ %B Data Channel: Yes 
+ Primary A Pressure Data Channel: No 
+ Accumulator A Pressure Data Channel: No 
+ Primary B Pressure Data Channel: No 
+ Accumulator B Pressure Data Channel: No 
+ Degasser Pressure Data Channel: No 
+ [Gradient Table]
+  Time(min) Flow Rate %A %B Curve 
+ 1. Initial 0.600 99.0 1.0 Initial 
+ 2. 0.10 0.600 99.0 1.0 6 
+ 3. 10.00 0.600 45.0 55.0 6 
+ 4. 10.15 0.610 35.0 65.0 6 
+ 5. 10.30 0.630 25.0 75.0 6 
+ 6. 10.45 0.670 15.0 85.0 6 
+ 7. 10.60 0.750 5.0 95.0 6 
+ 8. 10.70 0.800 0.0 100.0 6 
+ 9. 11.00 1.000 0.0 100.0 6 
+ 10. 11.55 1.000 0.0 100.0 6 
+ 11. 11.65 1.000 99.0 1.0 6 
+ 12. 11.70 0.900 99.0 1.0 6 
+ 13. 11.80 0.800 99.0 1.0 6 
+ 14. 11.90 0.700 99.0 1.0 6 
+ 15. 12.00 0.650 99.0 1.0 6 
+ 16. 12.10 0.610 99.0 1.0 6 
+ 17. 12.15 0.600 99.0 1.0 6 
+ 18. 12.65 0.600 99.0 1.0 6 
+ Run Events: No 
+ Gradient Start (Relative to Injection): 0 uL
+ Participate in pre-analysis: No 
+
+-- END PUMP --
+
+-- DETECTOR -- 
+
+Waters Acquity CM
+
+ Target Column Temperature: 45.0 C
+ Temperature Alarm Band: Off 
+ Shutdown All Columns: No 
+ Column Valve Position: Column 1 
+ Equilibration Time: 0.0 min
+ External Valve 1: No Change 
+ External Valve 2: No Change 
+ External Valve 3: No Change 
+ Comment:  
+ Column Temperature Data Channel: Yes 
+ Preheater Temperature Data Channel: No 
+
+
+-- END DETECTOR -- 
+
+-- AUTOSAMPLER --
+
+CTC PAL Method Parameters
+
+MacroValues = LC_INJ_5(0,0,0,0,5,0,LC Vlv1,5,500,500,1,1,1,750,1,1,1)
+
+SyringeSize = 25ul
+
+MacroLine
+001: Air Volume (µl);0;0;SYR.Max Volume
+002: Pre Clean with Solvent 1 ();0;0;99
+003: Pre Clean with Solvent 2 ();0;0;99
+004: Pre Clean with Sample ();0;0;99
+005: Filling Speed (µl/s);SYR.Fill Speed;SYR.Min Speed;SYR.Max Speed
+006: Filling Strokes ();1;0;99
+007: Inject to;INJECTOR
+008: Injection Speed (µl/s);SYR.Inject Speed;SYR.Min Speed;SYR.Max Speed
+009: Pre Inject Delay (ms);500;0;99000
+010: Post Inject Delay (ms);500;0;99000
+011: Weak Wash 1 ();1;0;99
+012: Strong Wash ();1;0;99
+013: Weak Wash 2 ();1;0;99
+014: Wait Time (s);1;0;999
+015: Valve wash weak 1 ();1;0;99
+016: Valve wash strong ();1;0;99
+017: Valve wash weak 2 ();1;0;99
+
+ATOM
+001: CLEANUP(Wash1,Off,Off,On,Off,On,Off,Off,)
+002: WAIT_SYNC_SIG(Start,)
+003: CLEAN_SYR(Wash1,Pre Clean with Solvent 1,,,,,,,)
+004: CLEAN_SYR(Wash2,Pre Clean with Solvent 2,,,,,,,)
+005: REPEAT(Pre Clean with Sample,)
+006: GET_SAMPLE(SL.tray,SL.index,SL.volume,,,,Filling Speed,,,0,Off,,,)
+007: PUT_SAMPLE(Waste,1,,,,,)
+008: END()
+009: GET_SAMPLE(SL.tray,SL.index,SL.volume,Air Volume,,,Filling Speed,,,Filling Strokes,Off,,,)
+010: MOVETO_OBJECT(Inject to,1,,)
+011: WAIT_FOR_DS()
+012: INJ_SAMPLE(Inject to,Inject,Injected,,10,Pre Inject Delay,Injection Speed,Post Inject Delay,1,)
+013: SET_INJECTED()
+014: MOVETO_OBJECT(Waste,1,,)
+015: INJ_SAMPLE(Waste,StJobQue,Injected,,5,,,,,)
+016: CLEAN_SYR(Wash2,Weak Wash 1,,,,,,,)
+017: CLEAN_SYR(Wash1,Strong Wash,,,,,,,)
+018: CLEAN_SYR(Wash2,Weak Wash 2,,,,,,,)
+019: MOVETO_OBJECT(Home,1,,)
+020: WAIT(Wait Time,)
+021: CLEAN_INJ(Wash2,Inject to,Valve wash weak 1,,,,,,,,Injection Speed,)
+022: CLEAN_INJ(Wash1,Inject to,Valve wash strong,,,,,,,,Injection Speed,)
+023: CLEAN_INJ(Wash2,Inject to,Valve wash weak 2,,,,,,,,Injection Speed,)
+024: CLEANUP(Wash1,Off,Off,Off,On,Off,Off,On,)
+
+
+Sample Run Injection Parameter
+
+Injection Volume (ul)   -   15.00
+-- END AUTOSAMPLER --
+
+----------------------------  oOo  -----------------------------
+
+
+End of experimental record.
+
+
+
+------------------- Waters Acquity SDS Postrun Report  ---------------
+
+
+
+ IcsVersion: 1.50.1521 
+ FirmwareVersion: 1.50.247 (Jun 28 2011) 
+ Checksum: 0x3acbd4a5 
+ SerialNumber: D12UPB912A 
+ Minimum System Pressure: 11829.6 
+ Maximum System Pressure: 13381.0 
+ Average System Pressure: 12732.9 
+ Minimum Degasser Pressure: 0.5 
+ Maximum Degasser Pressure: 0.5 
+ Average Degasser Pressure: 0.5 
+
+----------------------------  oOo  -----------------------------
+
+
+
+------------------- Waters Acquity CM Postrun Report  ---------------
+
+
+
+ Software Version: 1.51.1679 
+ Firmware Version: 1.40.74 (Oct 27 2011) 
+ Checksum: 0x8e9d1dc0 
+ Serial Number: C11UPC198G 
+ Valve Position: 1 
+ ColumnType: ACQUITY UPLC® HSS T3 1.8µm 
+ Column Serial Number: 01573413615729 
+ Minimum Column Temperature: 45.0 
+ Maximum Column Temperature: 45.0 
+ Average Column Temperature: 45.0 
+
+----------------------------  oOo  -----------------------------
+

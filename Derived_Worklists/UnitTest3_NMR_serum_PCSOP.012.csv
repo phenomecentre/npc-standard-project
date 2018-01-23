@@ -1,0 +1,11 @@
+Assay data name,Assay data location,Sample position,Sample batch,Assay protocol,Instrument,Acquisition batch,Sample ID,Status
+10,UnitTest3_Serum_Rack01_RCM_190116,A1,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S8,Sample
+100,UnitTest3_Serum_Rack01_RCM_190116,A2,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S7,Sample
+110,UnitTest3_Serum_Rack01_RCM_190116,A3,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S6,Sample
+120,UnitTest3_Serum_Rack01_RCM_190116,A4,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S5,Sample
+130,UnitTest3_Serum_Rack01_RCM_190116,A5,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S4,Sample
+140,UnitTest3_Serum_Rack01_RCM_190116,A6,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S3,Sample
+150,UnitTest3_Serum_Rack01_RCM_190116,A7,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S2,Sample
+160,UnitTest3_Serum_Rack01_RCM_190116,A8,UnitTest3 Serum 1,PCSOP.012,NMR02,1,,Long Term Reference
+170,UnitTest3_Serum_Rack01_RCM_190116,A9,UnitTest3 Serum 1,PCSOP.012,NMR02,1,,Study Reference
+180,UnitTest3_Serum_Rack01_RCM_190116,A10,UnitTest3 Serum 1,PCSOP.012,NMR02,1,UT3_S1,

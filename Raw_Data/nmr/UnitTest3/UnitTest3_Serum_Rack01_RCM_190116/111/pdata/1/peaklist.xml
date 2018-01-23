@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2017-05-04T11:54:35.600+01:00" expNo="111" name="UnitTest3_Serum_Rack01_RCM_190116" owner="" procNo="1" source="C:\IVDrData\data">
+      <PeakPickDetails>F1=1.370720ppm, F2=1.314109ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.350203" intensity="9.092133e+001" type="0"/>
+    <Peak1D F1="1.338740" intensity="1.000000e+002" type="0"/>
+  </PeakList1D>
+</PeakList>

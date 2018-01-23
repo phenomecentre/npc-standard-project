@@ -1,0 +1,196 @@
+Parameters for E:\TOF03.PRO\ACQUDB\NPC_RPC_NEG_FINAL.EXP
+Created by Masslynx v4.1
+ 
+Lock Spray Configuration:
+Reference Scan Frequency(sec)			60.000
+Reference Cone Voltage(V)			20.000
+Reference Collision Energy			6.000
+Reference DRE Setting				99.900
+ 
+Temperature Correction:
+Temperature Correction				Disabled
+ 
+Instrument Configuration:
+Lteff						1800.0
+Veff						6339.12
+Resolution					13000
+Min Points in Peak				2
+Acquisition Device				WatersADC
+ADC Trigger Threshold (V)			-1.00
+ADC Input Offset (V)				-1.60
+Average Single Ion Intensity			28
+ADC Amplitude Threshold				3
+ADC Centroid Threshold				-1
+ADC Ion Area Threshold				3
+ADC Ion Area Offset				15
+ADC Pushes Per IMS Increment			1
+TargetEnhancement Delay Coefficient		2.1500
+TargetEnhancement Delay Offset			0.0000
+ 
+Experimental Instrument Parameters
+Instrument Parameter Filename			E:\TOF03.PRO\ACQUDB\TOF03.ipr (MODIFIED)
+Polarity					ES-
+Analyser					Sensitivity Mode
+Capillary (kV)					1.0000
+Sampling Cone					20.0000
+Source Temperature (캜)				120
+Source Offset					80
+Desolvation Temperature (캜)			600
+Cone Gas Flow (L/Hr)				150.0
+Desolvation Gas Flow (L/Hr)			1000.0
+LM Resolution					10.0
+HM Resolution					15.0
+Aperture 1					0.0
+Pre-filter					2.0
+Ion Energy					1.0
+Manual Collision Energy				FALSE
+Collision Energy				4.0
+Detector					3407
+DetectorCache					0
+Sample Infusion Flow Rate (킠/min)		20
+Sample Flow State				Infusion
+Sample Fill Volume (킠)				250
+Sample Reservoir				Wash
+LockSpray Infusion Flow Rate (킠/min)		15
+LockSpray Flow State				Infusion
+LockSpray Reservoir				B
+LockSpray Capillary (kV)			2.00
+Use Manual LockSpray Collision Energy		FALSE
+Collision Energy				4.0
+Acceleration1					22.0
+Acceleration2					95.0
+Aperture2					20.0
+Transport1					30.0
+Transport2					30.0
+Steering					0.05
+Tube Lens					19
+Pusher						1900.0
+Pusher Offset					-0.42
+Puller						1400.0
+Pusher Cycle Time (탎)				Automatic
+Pusher Width (탎)				Automatic
+Collector					60
+Collector Pulse					10.0
+Stopper						10
+Stopper Pulse					20.0
+Entrance					17
+Static Offset					120
+Puller Offset					0.00
+Reflectron Grid (kV)				1.706
+Flight Tube (kV)				9.00
+Reflectron (kV)					1.602
+TWave Entrance					2.00
+Static Offset					120.00
+TWave Exit					15.00
+TWave Trap Height				4.00
+TWave Extract Height				15.00
+Trap Wave Velocity (m/s)			260
+Trap Wave Height (V)				0.2
+Step Wave 1 In Manual Control			OFF
+Enable Reverse Operation			OFF
+Step Wave 1 In Velocity (m/s)			300.0
+Step Wave 1 In Height				15.0
+Step Wave 1 Out Manual Control			OFF
+Step Wave 1 Out Velocity (m/s)			300.0
+Step Wave 1 Out Height				15.0
+Step Wave 2 Manual Control			OFF
+Step Wave 2 Velocity (m/s)			300.0
+Step Wave 2 Height				1.0
+Use Manual Step Wave DC				OFF
+Step Wave TransferOffset			10.0
+Step Wave DiffAperture1				3.0
+Step Wave DiffAperture2				0.0
+Use Automatic RF Settings			TRUE
+StepWave1RFOffset				300.0
+StepWave2RFOffset				350.0
+Backing						3.52e0
+Collision					1.25e-2
+TOF						5.29e-7
+TrapRFOffset					380
+MS Profile Type					Auto P
+MSProfileMass1					300
+MSProfileDwellTime1				20
+MSProfileRampTime1				20
+MSProfileMass2					500
+MSProfileDwellTime2				20
+MSProfileRampTime2				40
+MSProfileMass3					1000
+Use Automatic RF Settings			TRUE
+AutoStepWave1RFOffset				300
+AutoStepWave2RFOffset				350
+LockMassValidSigma				5
+ 
+Acquisition mass range
+Start mass					50.000
+End mass					1200.000
+Calibration mass range
+Start mass					0.000
+End mass					0.000
+ 
+Experiment Reference Compound Name: Leu Enk Neg Sens 2014
+ 
+Function Parameters - Function 1 - TOF MS FUNCTION
+Scan Time (sec)					0.150
+Interscan Time (sec)				0.014
+Start Mass					50.0
+End Mass					1200.0
+Start Time (mins)				0.00
+End Time (mins)					12.50
+Data Format					Centroid
+ADC Sample Frequency (GHz)			6.0
+ADC Pusher Frequency (탎)			60.0
+ADC Pusher Width (탎)				1.50
+Use Tune Page Cone Voltage			YES
+Using Auto Transfer Collision Energy (eV)	4.000000
+Sensitivity					Normal
+Dynamic Range					Normal
+Save Collapsed Retention Time Data		No
+Use Rule File Filtering				No
+Lock Mass					554.261500
+Mass Window +/-					0.5
+Scans to Average				4.0
+Calibration					Dynamic 2
+ 
+Function Parameters - Function 2 - REFERENCE
+Scan Time (sec)					0.100
+Interscan Time (sec)				0.100
+Start Mass					50.0
+End Mass					1200.0
+Start Time (mins)				0.00
+End Time (mins)					12.50
+Data Format					Centroid
+ADC Sample Frequency (GHz)			6.0
+ADC Pusher Frequency (탎)			60.0
+ADC Pusher Width (탎)				1.50
+Use Tune Page Cone Voltage			YES
+Using Auto Transfer Collision Energy (eV)	4.000000
+Sensitivity					Normal
+Dynamic Range					Normal
+Save Collapsed Retention Time Data		No
+Use Rule File Filtering				No
+[LOCK SPRAY]
+LockSprayType:					Apply Correction 
+LockSpray Reference Compound Name:		Leu Enk Neg Sens 2014
+Scan Time (sec)					0.10
+Interval					60
+TargetEnhancement Mass				0.0000
+Mass Window +/-					0.5
+Scans to Average				4.0
+Reference Cone Voltage				20.0
+Collision Energy (eV)				6.0
+LocksprayDRESetting				99.9000
+Lock Mass					554.261500
+Mass Window +/-					0.5
+Scans to Average				4.0
+[METHOD EVENTS:]
+Timed Events Enabled:				YES
+API Probe Delay Temp:				20.0
+Num of Timed Events:				4.0
+Event	Time	Name	Action				System
+1	0.00	Reservoir	B				LockSpray
+2	0.00	Infusion	Start				LockSpray
+3	690.00	Refill	Refill Always			LockSpray
+4	720.00	Infusion	Start				LockSpray
+
+
+Calibration					Dynamic 2

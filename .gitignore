@@ -1,0 +1,8 @@
+*.html
+*.DS_Store
+*.swp
+*.pyc
+.spyderproject
+.ipynb_checkpoints
+*Thumbs.db
+*~$*

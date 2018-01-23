@@ -1,0 +1,12 @@
+Assay data name,Assay data location,Sample position,Sample batch,Assay protocol,Instrument,Acquisition batch,Sample ID,Status
+UnitTest1_LPOS_ToF02_S1W01,UnitTest1_LPOS_ToF02_S1,A1,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S1_s1,Sample
+UnitTest1_LPOS_ToF02_S1W02,UnitTest1_LPOS_ToF02_S1,A2,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S2_s1,Sample
+UnitTest1_LPOS_ToF02_S1W03,UnitTest1_LPOS_ToF02_S1,A3,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S3_s1,Missing
+UnitTest1_LPOS_ToF02_S1W05,UnitTest1_LPOS_ToF02_S1,A5,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S4_s2,Sample
+UnitTest1_LPOS_ToF02_S1W06,UnitTest1_LPOS_ToF02_S1,A6,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S4_s3,Sample
+UnitTest1_LPOS_ToF02_S1W07,UnitTest1_LPOS_ToF02_S1,A7,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S4_s4,Sample
+UnitTest1_LPOS_ToF02_S1W08,UnitTest1_LPOS_ToF02_S1,A8,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S4_s5,Sample
+UnitTest1_LPOS_ToF02_S1W09,UnitTest1_LPOS_ToF02_S1,A9,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S5_s1,Missing
+UnitTest1_LPOS_ToF02_S1W10,UnitTest1_LPOS_ToF02_S1,A10,UnitTest1 serum 1,PCSOP.069,ToF02,1,UT1_S5_s2,Sample
+UnitTest1_LPOS_ToF02_S1W11_LTR,UnitTest1_LPOS_ToF02_S1,A11,UnitTest1 serum 1,PCSOP.069,ToF02,1,,Long Term Reference
+UnitTest1_LPOS_ToF02_S1W12_SR,UnitTest1_LPOS_ToF02_S1,A12,UnitTest1 serum 1,PCSOP.069,ToF02,1,,Study Reference

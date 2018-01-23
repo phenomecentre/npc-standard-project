@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/IVDrData/data/UnitTest1_Urine_Rack1_SLL_270814/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-08-23 20:43:22.500 +0100>,<nmrsu>,<npc-nmr-01>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2017-08-23 20:39:06.067 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       9D 06 FC BF F1 97 58 02 5A 4A 71 C6 D0 92 63 D1
+       data hash MD5: 8K * 40
+       49 F7 14 24 A6 DB 96 53 F4 1B 3B BA EC 16 DC 75>)
+(   2,<2017-08-23 20:43:22.594 +0100>,<nmrsu>,<npc-nmr-01>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 8K * 40
+       49 F7 14 24 A6 DB 96 53 F4 1B 3B BA EC 16 DC 75>)
+##END=
+
+$$ hash MD5
+$$ FD 81 F6 19 7C D5 91 98 B5 50 D8 20 74 E7 27 81

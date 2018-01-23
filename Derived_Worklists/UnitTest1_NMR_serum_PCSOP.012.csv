@@ -1,0 +1,8 @@
+Assay data name,Assay data location,Sample position,Sample batch,Assay protocol,Instrument,Acquisition batch,Sample ID,Status
+10,UnitTest1_Serum_Rack1_SLL_270814,A1,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S1_s1,Sample
+20,UnitTest1_Serum_Rack1_SLL_270814,A2,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S2_s1,Sample
+30,UnitTest1_Serum_Rack1_SLL_270814,A3,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S3_s1,Sample
+40,UnitTest1_Serum_Rack1_SLL_270814,A4,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S4_s1,Sample
+50,UnitTest1_Serum_Rack1_SLL_270814,A5,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S4_s2,Sample
+60,UnitTest1_Serum_Rack1_SLL_270814,A6,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S4_s3,Sample
+70,UnitTest1_Serum_Rack1_SLL_270814,A7,UnitTest1 serum 1,PCSOP.012,NMR02,1,UT1_S4_s4,Sample

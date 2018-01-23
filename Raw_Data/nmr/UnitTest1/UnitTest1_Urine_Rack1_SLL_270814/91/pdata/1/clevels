@@ -1,0 +1,28 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2017-08-23 23:00:53.558 +0100  nmrsu@npc-nmr-01
+$$ C:/IVDrData/data/UnitTest1_Urine_Rack1_SLL_270814/91/pdata/1/clevels
+$$ process C:\Bruker\TopSpin3.5pl6\prog\mod\xwish3.exe
+##$LEVELS= (0..255)
+-699094.0545408 -388385.585856 -215769.76992 -119872.0944 -66595.608 -36997.56
+-20554.2 -11419 11419 20554.2 36997.56 66595.608 119872.0944 215769.76992
+388385.585856 699094.0545408 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 8
+##$METHOD= 0
+##$NEGBASE= -11419
+##$NEGINCR= 1.8
+##$POSBASE= 11419
+##$POSINCR= 1.8
+##END=

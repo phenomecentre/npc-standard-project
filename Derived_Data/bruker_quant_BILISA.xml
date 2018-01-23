@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RESULTS version="Version 1.0.0, 24-Jul-2017 14:47:51">
+   <SAMPLE date="27-Aug-2015 09:59:47" name="UnitTest6_expno10.100000.11r" project="" type="PLasma / Serum"/>
+   <CLASSIFICATION/>
+   <VERIFICATION/>
+   <QUANTIFICATION version="PL-5009-01/001  (RESEARCH USE ONLY : Must not be used for medical diagnostics!)">
+      <PARAMETER comment="Main Parameters, Triglycerides, TG" name="TPTG" type="prediction">
+         <VALUE lod="-" loq="-" unit="mg/dL" value="134.65"/>
+         <REFERENCE source="NMR Database" unit="mg/dL" vmax="489.81" vmin="53.45"/>
+      </PARAMETER>
+      <PARAMETER comment="Main Parameters, Cholesterol, Chol" name="TPCH" type="prediction">
+         <VALUE lod="-" loq="-" unit="mg/dL" value="183.95"/>
+         <REFERENCE source="NMR Database" unit="mg/dL" vmax="341.43" vmin="140.31"/>
+      </PARAMETER>
+      <PARAMETER comment="Main Parameters, LDL Cholesterol, LDL-Chol" name="LDCH" type="prediction">
+         <VALUE lod="-" loq="-" unit="mg/dL" value="94.57"/>
+         <REFERENCE source="NMR Database" unit="mg/dL" vmax="226.60" vmin="54.52"/>
+      </PARAMETER>
+      <PARAMETER comment="Main Parameters, HDL Cholesterol, HDL-Chol" name="HDCH" type="prediction">
+         <VALUE lod="-" loq="-" unit="mg/dL" value="52.22"/>
+         <REFERENCE source="NMR Database" unit="mg/dL" vmax="96.25" vmin="34.60"/>
+      </PARAMETER>
+   </QUANTIFICATION>
+</RESULTS>
