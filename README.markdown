@@ -32,6 +32,8 @@ Raw analytical data files. Most binary data has been truncated for space, leavin
 
 - `ms` - MS raw data 
   - `parameters_data` Waters `.raw` format data files to test parameter extraction - Binary data files have been truncated
+  - `parameters_data` Open `.mzML` format data files to test parameter extraction - Most scans were removed
+
 - `nmr` - NMR raw data
   - `UnitTest1` Bruker format spectra of urine - Binary data files have been truncated
   - `UnitTest3` Bruker format spectra of serum - Binary data files have been truncated
