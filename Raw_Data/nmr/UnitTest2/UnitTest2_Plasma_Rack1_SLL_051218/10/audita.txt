@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/IVDrData/data/GutHorm_Plasma_Rack1_SLL_051218/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-12-05 11:32:33.999 +0000>,<nmrsu>,<cpc-nmr-01>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2018-12-05 11:28:25.522 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       CD 89 69 77 1E 55 33 EA C0 76 8E 2E C8 D4 50 A8
+       data hash MD5: 96K
+       E6 40 39 BF D4 1F DB DA FC BF 90 70 93 C6 28 68>)
+(   2,<2018-12-05 11:32:34.278 +0000>,<nmrsu>,<cpc-nmr-01>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 96K
+       E6 40 39 BF D4 1F DB DA FC BF 90 70 93 C6 28 68>)
+##END=
+
+$$ hash MD5
+$$ 76 BB C6 E5 9D 9B 1C 3E 84 6E D2 68 DA A4 FA D5

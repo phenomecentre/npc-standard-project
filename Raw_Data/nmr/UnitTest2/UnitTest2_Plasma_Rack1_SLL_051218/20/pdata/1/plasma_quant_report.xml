@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RESULTS version="Quant-PS 2.0.0  Reseach Use Only">
+   <SAMPLE date="05-Dec-2018 11:54:31" name="UnitTest2_Plasma_Rack1_SLL_051218_expno20.100000.17r" project="" type="plasma/serum"/>
+   <CLASSIFICATION/>
+   <VERIFICATION/>
+   <QUANTIFICATION version="Quant-PS 2.0.0  Reseach Use Only">
+      <PARAMETER name="Ethanol" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.100" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.025" errConcUnit="mmol/L" rawConc="0.082" rawConcUnit="mmol/L" sigCorr="73" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.82" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Trimethylamine-N-oxide" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.080" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.037" errConcUnit="mmol/L" rawConc="0.015" rawConcUnit="mmol/L" sigCorr="99" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.08" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="2-Aminobutyric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.050" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.718" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.10" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Alanine" type="quantification">
+         <VALUE conc="0.48" concUnit="mmol/L" lod="0.020" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.008" errConcUnit="mmol/L" rawConc="0.479" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.64" vmin="0.29"/>
+      </PARAMETER>
+      <PARAMETER name="Asparagine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.050" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="4.077" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.08" vmin="-"/>
+      </PARAMETER>
+      
+   </QUANTIFICATION>
+</RESULTS>
