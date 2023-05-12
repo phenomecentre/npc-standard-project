@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RESULTS version="Quant-PS 2.0.0  Reseach Use Only">
+   <SAMPLE date="05-Dec-2018 11:32:33" name="UnitTest_Plasma_Rack1_SLL_051218_expno10.100000.17r" project="" type="plasma/serum"/>
+   <CLASSIFICATION/>
+   <VERIFICATION/>
+   <QUANTIFICATION version="Quant-PS 2.0.0  Reseach Use Only">
+      <PARAMETER name="Ethanol" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.100" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.023" errConcUnit="mmol/L" rawConc="0.020" rawConcUnit="mmol/L" sigCorr="44" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.82" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Trimethylamine-N-oxide" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.080" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.047" errConcUnit="mmol/L" rawConc="0.021" rawConcUnit="mmol/L" sigCorr="99" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.08" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Alanine" type="quantification">
+         <VALUE conc="0.52" concUnit="mmol/L" lod="0.020" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.013" errConcUnit="mmol/L" rawConc="0.517" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.64" vmin="0.29"/>
+      </PARAMETER>
+   </QUANTIFICATION>
+</RESULTS>

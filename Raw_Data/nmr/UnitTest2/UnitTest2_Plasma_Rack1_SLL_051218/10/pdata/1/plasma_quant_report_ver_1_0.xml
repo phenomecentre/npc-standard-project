@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RESULTS version="Quant-PS 2.0.0  Reseach Use Only">
+   <SAMPLE date="05-Dec-2018 11:32:33" name="UnitTest2_Plasma_Rack1_SLL_051218_expno10.100000.17r" project="" type="plasma/serum"/>
+   <CLASSIFICATION/>
+   <VERIFICATION/>
+   <QUANTIFICATION version="Quant-PS 2.0.0  Reseach Use Only">
+      <PARAMETER name="Ethanol" type="quantification">
+         <VALUE lod="0.100" loq="-" unit="mmol/L" value="0" valueext="0"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.82" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Trimethylamine-N-oxide" type="quantification">
+         <VALUE lod="0.080" loq="-" unit="mmol/L" value="0" valueext="0"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.08" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="2-Aminobutyric acid" type="quantification">
+         <VALUE lod="0.050" loq="-" unit="mmol/L" value="0" valueext="0"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.10" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Alanine" type="quantification">
+         <VALUE lod="0.020" loq="-" unit="mmol/L" value="0.52" valueext="0.52"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.64" vmin="0.29"/>
+      </PARAMETER>
+      <PARAMETER name="Asparagine" type="quantification">
+         <VALUE lod="0.050" unit="mmol/L" value="0" valueext="0"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="0.08" vmin="-"/>
+      </PARAMETER>
+   </QUANTIFICATION>
+</RESULTS>
