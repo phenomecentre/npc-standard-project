@@ -1,0 +1,214 @@
+,Sample File Name,Sample ID,AssayRole,SampleType,SampleClass,Dilution,Class,Acquired Time,Run Order,Correction Batch,Batch
+0,PipelineTesting_RPOS_ToF10_B1E1_SR,Study Pool 19,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T18:37:00,162.0,1.0,1
+1,PipelineTesting_RPOS_ToF10_B1E2_SR,Study Pool 20,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T18:47:00,163.0,1.0,1
+2,PipelineTesting_RPOS_ToF10_B1E3_SR,Study Pool 21,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T19:02:00,164.0,1.0,1
+3,PipelineTesting_RPOS_ToF10_B1E4_SR,Study Pool 22,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T19:17:00,165.0,1.0,1
+4,PipelineTesting_RPOS_ToF10_B1E5_SR,Study Pool 23,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T19:32:00,166.0,1.0,1
+5,PipelineTesting_RPOS_ToF10_B1S1_SR,Study Pool 09,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T14:44:00,58.0,1.0,1
+6,PipelineTesting_RPOS_ToF10_B1S10_SR,Study Pool 18,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T13:00:00,140.0,1.0,1
+7,PipelineTesting_RPOS_ToF10_B1S2_SR,Study Pool 10,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T14:59:00,59.0,1.0,1
+8,PipelineTesting_RPOS_ToF10_B1S3_SR,Study Pool 11,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T15:14:00,60.0,1.0,1
+9,PipelineTesting_RPOS_ToF10_B1S4_SR,Study Pool 12,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T15:29:00,61.0,1.0,1
+10,PipelineTesting_RPOS_ToF10_B1S5_SR,Study Pool 13,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T15:44:00,62.0,1.0,1
+11,PipelineTesting_RPOS_ToF10_B1S6_SR,Study Pool 14,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T11:57:00,136.0,1.0,1
+12,PipelineTesting_RPOS_ToF10_B1S7_SR,Study Pool 15,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T12:14:00,137.0,1.0,1
+13,PipelineTesting_RPOS_ToF10_B1S8_SR,Study Pool 16,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T12:29:00,138.0,1.0,1
+14,PipelineTesting_RPOS_ToF10_B1S9_SR,Study Pool 17,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T12:45:00,139.0,1.0,1
+15,PipelineTesting_RPOS_ToF10_B1SRD01,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T02:25:00,12.0,1.0,1
+16,PipelineTesting_RPOS_ToF10_B1SRD02,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T02:40:00,13.0,1.0,1
+17,PipelineTesting_RPOS_ToF10_B1SRD03,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T02:55:00,14.0,1.0,1
+18,PipelineTesting_RPOS_ToF10_B1SRD04,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T03:10:00,15.0,1.0,1
+19,PipelineTesting_RPOS_ToF10_B1SRD05,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T03:25:00,16.0,1.0,1
+20,PipelineTesting_RPOS_ToF10_B1SRD06,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T03:40:00,17.0,1.0,1
+21,PipelineTesting_RPOS_ToF10_B1SRD07,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T03:56:00,18.0,1.0,1
+22,PipelineTesting_RPOS_ToF10_B1SRD08,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T04:11:00,19.0,1.0,1
+23,PipelineTesting_RPOS_ToF10_B1SRD09,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T04:26:00,20.0,1.0,1
+24,PipelineTesting_RPOS_ToF10_B1SRD10,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-18T04:41:00,21.0,1.0,1
+25,PipelineTesting_RPOS_ToF10_B1SRD11,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T04:56:00,22.0,1.0,1
+26,PipelineTesting_RPOS_ToF10_B1SRD12,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T05:11:00,23.0,1.0,1
+27,PipelineTesting_RPOS_ToF10_B1SRD13,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T05:26:00,24.0,1.0,1
+28,PipelineTesting_RPOS_ToF10_B1SRD14,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T05:41:00,25.0,1.0,1
+29,PipelineTesting_RPOS_ToF10_B1SRD15,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T05:56:00,26.0,1.0,1
+30,PipelineTesting_RPOS_ToF10_B1SRD16,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T06:11:00,27.0,1.0,1
+31,PipelineTesting_RPOS_ToF10_B1SRD17,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T06:26:00,28.0,1.0,1
+32,PipelineTesting_RPOS_ToF10_B1SRD18,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T06:41:00,29.0,1.0,1
+33,PipelineTesting_RPOS_ToF10_B1SRD19,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T06:57:00,30.0,1.0,1
+34,PipelineTesting_RPOS_ToF10_B1SRD20,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-18T07:12:00,31.0,1.0,1
+35,PipelineTesting_RPOS_ToF10_B1SRD21,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-18T07:27:00,32.0,1.0,1
+36,PipelineTesting_RPOS_ToF10_B1SRD22,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-18T07:42:00,33.0,1.0,1
+37,PipelineTesting_RPOS_ToF10_B1SRD23,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-18T07:57:00,34.0,1.0,1
+38,PipelineTesting_RPOS_ToF10_B1SRD24,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-18T08:12:00,35.0,1.0,1
+39,PipelineTesting_RPOS_ToF10_B1SRD25,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-18T08:27:00,36.0,1.0,1
+40,PipelineTesting_RPOS_ToF10_B1SRD26,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-18T08:42:00,37.0,1.0,1
+41,PipelineTesting_RPOS_ToF10_B1SRD27,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-18T08:57:00,38.0,1.0,1
+42,PipelineTesting_RPOS_ToF10_B1SRD28,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-18T09:12:00,39.0,1.0,1
+43,PipelineTesting_RPOS_ToF10_B1SRD29,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-18T09:27:00,40.0,1.0,1
+44,PipelineTesting_RPOS_ToF10_B1SRD30,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-18T09:42:00,41.0,1.0,1
+45,PipelineTesting_RPOS_ToF10_B1SRD31,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-18T09:57:00,42.0,1.0,1
+46,PipelineTesting_RPOS_ToF10_B1SRD32,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-18T10:13:00,43.0,1.0,1
+47,PipelineTesting_RPOS_ToF10_B1SRD33,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-18T10:28:00,44.0,1.0,1
+48,PipelineTesting_RPOS_ToF10_B1SRD34,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-18T10:43:00,45.0,1.0,1
+49,PipelineTesting_RPOS_ToF10_B1SRD35,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-18T10:58:00,46.0,1.0,1
+50,PipelineTesting_RPOS_ToF10_B1SRD36,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-18T11:13:00,47.0,1.0,1
+51,PipelineTesting_RPOS_ToF10_B1SRD37,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T11:28:00,48.0,1.0,1
+52,PipelineTesting_RPOS_ToF10_B1SRD38,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T11:43:00,49.0,1.0,1
+53,PipelineTesting_RPOS_ToF10_B1SRD39,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T11:58:00,50.0,1.0,1
+54,PipelineTesting_RPOS_ToF10_B1SRD40,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T12:13:00,51.0,1.0,1
+55,PipelineTesting_RPOS_ToF10_B1SRD41,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T12:28:00,52.0,1.0,1
+56,PipelineTesting_RPOS_ToF10_B1SRD42,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T12:43:00,53.0,1.0,1
+57,PipelineTesting_RPOS_ToF10_B1SRD43,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T12:58:00,54.0,1.0,1
+58,PipelineTesting_RPOS_ToF10_B1SRD44,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T13:14:00,55.0,1.0,1
+59,PipelineTesting_RPOS_ToF10_B1SRD45,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T13:29:00,56.0,1.0,1
+60,PipelineTesting_RPOS_ToF10_B1SRD46,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-18T13:44:00,57.0,1.0,1
+61,PipelineTesting_RPOS_ToF10_B1SRD47,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T07:06:00,212.0,1.0,1
+62,PipelineTesting_RPOS_ToF10_B1SRD48,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T06:51:00,211.0,1.0,1
+63,PipelineTesting_RPOS_ToF10_B1SRD49,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T06:35:00,210.0,1.0,1
+64,PipelineTesting_RPOS_ToF10_B1SRD50,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T06:20:00,209.0,1.0,1
+65,PipelineTesting_RPOS_ToF10_B1SRD51,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T06:05:00,208.0,1.0,1
+66,PipelineTesting_RPOS_ToF10_B1SRD52,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T05:50:00,207.0,1.0,1
+67,PipelineTesting_RPOS_ToF10_B1SRD53,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T05:35:00,206.0,1.0,1
+68,PipelineTesting_RPOS_ToF10_B1SRD54,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T05:20:00,205.0,1.0,1
+69,PipelineTesting_RPOS_ToF10_B1SRD55,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T05:05:00,204.0,1.0,1
+70,PipelineTesting_RPOS_ToF10_B1SRD56,,Linearity Reference,Study Pool,Linearity Reference,1.0,,2018-01-20T04:50:00,203.0,1.0,1
+71,PipelineTesting_RPOS_ToF10_B1SRD57,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T04:35:00,202.0,1.0,1
+72,PipelineTesting_RPOS_ToF10_B1SRD58,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T04:20:00,201.0,1.0,1
+73,PipelineTesting_RPOS_ToF10_B1SRD59,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T04:05:00,200.0,1.0,1
+74,PipelineTesting_RPOS_ToF10_B1SRD60,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T03:50:00,199.0,1.0,1
+75,PipelineTesting_RPOS_ToF10_B1SRD61,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T03:34:00,198.0,1.0,1
+76,PipelineTesting_RPOS_ToF10_B1SRD62,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T03:19:00,197.0,1.0,1
+77,PipelineTesting_RPOS_ToF10_B1SRD63,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T03:04:00,196.0,1.0,1
+78,PipelineTesting_RPOS_ToF10_B1SRD64,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T02:49:00,195.0,1.0,1
+79,PipelineTesting_RPOS_ToF10_B1SRD65,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T02:34:00,194.0,1.0,1
+80,PipelineTesting_RPOS_ToF10_B1SRD66,,Linearity Reference,Study Pool,Linearity Reference,10.0,,2018-01-20T02:19:00,193.0,1.0,1
+81,PipelineTesting_RPOS_ToF10_B1SRD67,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-20T02:04:00,192.0,1.0,1
+82,PipelineTesting_RPOS_ToF10_B1SRD68,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-20T01:49:00,191.0,1.0,1
+83,PipelineTesting_RPOS_ToF10_B1SRD69,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-20T01:34:00,190.0,1.0,1
+84,PipelineTesting_RPOS_ToF10_B1SRD70,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-20T01:19:00,189.0,1.0,1
+85,PipelineTesting_RPOS_ToF10_B1SRD71,,Linearity Reference,Study Pool,Linearity Reference,20.0,,2018-01-20T01:04:00,188.0,1.0,1
+86,PipelineTesting_RPOS_ToF10_B1SRD72,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-20T00:49:00,187.0,1.0,1
+87,PipelineTesting_RPOS_ToF10_B1SRD73,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-20T00:33:00,186.0,1.0,1
+88,PipelineTesting_RPOS_ToF10_B1SRD74,,Linearity Reference,Study Pool,Linearity Reference,40.0,,2018-01-20T00:18:00,185.0,1.0,1
+89,PipelineTesting_RPOS_ToF10_B1SRD75,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-20T00:03:00,184.0,1.0,1
+90,PipelineTesting_RPOS_ToF10_B1SRD76,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-19T23:48:00,183.0,1.0,1
+91,PipelineTesting_RPOS_ToF10_B1SRD77,,Linearity Reference,Study Pool,Linearity Reference,60.0,,2018-01-19T23:33:00,182.0,1.0,1
+92,PipelineTesting_RPOS_ToF10_B1SRD78,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-19T23:18:00,181.0,1.0,1
+93,PipelineTesting_RPOS_ToF10_B1SRD79,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-19T23:03:00,180.0,1.0,1
+94,PipelineTesting_RPOS_ToF10_B1SRD80,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-19T22:48:00,179.0,1.0,1
+95,PipelineTesting_RPOS_ToF10_B1SRD81,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-19T22:33:00,178.0,1.0,1
+96,PipelineTesting_RPOS_ToF10_B1SRD82,,Linearity Reference,Study Pool,Linearity Reference,80.0,,2018-01-19T22:18:00,177.0,1.0,1
+97,PipelineTesting_RPOS_ToF10_B1SRD83,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T22:03:00,176.0,1.0,1
+98,PipelineTesting_RPOS_ToF10_B1SRD84,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T21:48:00,175.0,1.0,1
+99,PipelineTesting_RPOS_ToF10_B1SRD85,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T21:32:00,174.0,1.0,1
+100,PipelineTesting_RPOS_ToF10_B1SRD86,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T21:17:00,173.0,1.0,1
+101,PipelineTesting_RPOS_ToF10_B1SRD87,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T21:02:00,172.0,1.0,1
+102,PipelineTesting_RPOS_ToF10_B1SRD88,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T20:47:00,171.0,1.0,1
+103,PipelineTesting_RPOS_ToF10_B1SRD89,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T20:32:00,170.0,1.0,1
+104,PipelineTesting_RPOS_ToF10_B1SRD90,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T20:17:00,169.0,1.0,1
+105,PipelineTesting_RPOS_ToF10_B1SRD91,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T20:02:00,168.0,1.0,1
+106,PipelineTesting_RPOS_ToF10_B1SRD92,,Linearity Reference,Study Pool,Linearity Reference,100.0,,2018-01-19T19:47:00,167.0,1.0,1
+107,PipelineTesting_RPOS_ToF10_Blank01,Blank 01,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T15:50:00,0.0,1.0,1
+108,PipelineTesting_RPOS_ToF10_Blank02,Blank 02,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T16:07:00,1.0,1.0,1
+109,PipelineTesting_RPOS_ToF10_Blank03,Blank 03,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T16:22:00,2.0,1.0,1
+110,PipelineTesting_RPOS_ToF10_Blank04,Blank 04,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T16:37:00,3.0,1.0,1
+111,PipelineTesting_RPOS_ToF10_Blank05,Blank 05,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T16:52:00,4.0,1.0,1
+112,PipelineTesting_RPOS_ToF10_Blank06,Blank 06,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T17:07:00,5.0,1.0,1
+113,PipelineTesting_RPOS_ToF10_Blank07,Blank 07,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T17:22:00,6.0,1.0,1
+114,PipelineTesting_RPOS_ToF10_Blank08,Blank 08,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T17:37:00,7.0,1.0,1
+115,PipelineTesting_RPOS_ToF10_Blank09,Blank 09,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T17:52:00,8.0,1.0,1
+116,PipelineTesting_RPOS_ToF10_Blank10,Blank 10,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-17T18:07:00,9.0,1.0,1
+117,PipelineTesting_RPOS_ToF10_Blank11,Blank 11,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-18T01:55:00,10.0,1.0,1
+118,PipelineTesting_RPOS_ToF10_Blank12,Blank 12,Assay,Procedural Blank,Procedural Blank,50.0,Blank,2018-01-18T02:10:00,11.0,1.0,1
+119,PipelineTesting_RPOS_ToF10_U1W01,DevSet1_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T18:01:00,160.0,1.0,1
+120,PipelineTesting_RPOS_ToF10_U1W02,DevSet2_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-18T21:01:00,83.0,1.0,1
+121,PipelineTesting_RPOS_ToF10_U1W03,DevSet3_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-18T20:46:00,82.0,1.0,1
+122,PipelineTesting_RPOS_ToF10_U1W04,DevSet4_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T19:46:00,78.0,1.0,1
+123,PipelineTesting_RPOS_ToF10_U1W05,DevSet5_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T23:47:00,94.0,1.0,1
+124,PipelineTesting_RPOS_ToF10_U1W06,DevSet6_Rep1,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T17:16:00,157.0,1.0,1
+125,PipelineTesting_RPOS_ToF10_U1W07,DevSet1_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-18T22:47:00,90.0,1.0,1
+126,PipelineTesting_RPOS_ToF10_U1W08,DevSet2_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T02:03:00,103.0,1.0,1
+127,PipelineTesting_RPOS_ToF10_U1W09,DevSet3_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T05:19:00,116.0,1.0,1
+128,PipelineTesting_RPOS_ToF10_U1W10,DevSet4_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T23:02:00,91.0,1.0,1
+129,PipelineTesting_RPOS_ToF10_U1W11_LTR,External Reference 1,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-18T15:59:00,63.0,1.0,1
+130,PipelineTesting_RPOS_ToF10_U1W12_SR,Study Pool 01,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T17:30:00,69.0,1.0,1
+131,PipelineTesting_RPOS_ToF10_U1W13_b,DevSet5_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-19T13:30:00,142.0,1.0,1
+132,PipelineTesting_RPOS_ToF10_U1W14,DevSet6_Rep2,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T00:32:00,97.0,1.0,1
+133,PipelineTesting_RPOS_ToF10_U1W15,DevSet1_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T09:05:00,131.0,1.0,1
+134,PipelineTesting_RPOS_ToF10_U1W16,DevSet2_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T03:33:00,109.0,1.0,1
+135,PipelineTesting_RPOS_ToF10_U1W17,DevSet3_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T14:15:00,145.0,1.0,1
+136,PipelineTesting_RPOS_ToF10_U1W18,DevSet4_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T16:16:00,153.0,1.0,1
+137,PipelineTesting_RPOS_ToF10_U1W19,DevSet5_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T16:30:00,65.0,1.0,1
+138,PipelineTesting_RPOS_ToF10_U1W20,DevSet6_Rep3,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-18T21:46:00,86.0,1.0,1
+139,PipelineTesting_RPOS_ToF10_U1W21,DevSet1_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-18T19:16:00,76.0,1.0,1
+140,PipelineTesting_RPOS_ToF10_U1W22,DevSet2_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T01:48:00,102.0,1.0,1
+141,PipelineTesting_RPOS_ToF10_U1W23_LTR,External Reference 2,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-18T19:01:00,75.0,1.0,1
+142,PipelineTesting_RPOS_ToF10_U1W24_SR,Study Pool 02,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T20:31:00,81.0,1.0,1
+143,PipelineTesting_RPOS_ToF10_U1W25,DevSet3_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T14:45:00,147.0,1.0,1
+144,PipelineTesting_RPOS_ToF10_U1W26,DevSet4_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T18:16:00,161.0,1.0,1
+145,PipelineTesting_RPOS_ToF10_U1W27,DevSet5_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-19T07:35:00,125.0,1.0,1
+146,PipelineTesting_RPOS_ToF10_U1W28,DevSet6_Rep4,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T02:48:00,106.0,1.0,1
+147,PipelineTesting_RPOS_ToF10_U1W29,DevSet1_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T15:15:00,149.0,1.0,1
+148,PipelineTesting_RPOS_ToF10_U1W30,DevSet2_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T06:19:00,120.0,1.0,1
+149,PipelineTesting_RPOS_ToF10_U1W31,DevSet3_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T03:48:00,110.0,1.0,1
+150,PipelineTesting_RPOS_ToF10_U1W32,DevSet4_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T23:17:00,92.0,1.0,1
+151,PipelineTesting_RPOS_ToF10_U1W33,DevSet5_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T17:45:00,70.0,1.0,1
+152,PipelineTesting_RPOS_ToF10_U1W34,DevSet6_Rep5,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T08:20:00,128.0,1.0,1
+153,PipelineTesting_RPOS_ToF10_U1W35_LTR,External Reference 3,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-18T22:02:00,87.0,1.0,1
+154,PipelineTesting_RPOS_ToF10_U1W36_SR,Study Pool 03,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-18T23:32:00,93.0,1.0,1
+155,PipelineTesting_RPOS_ToF10_U1W37,DevSet1_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T05:49:00,118.0,1.0,1
+156,PipelineTesting_RPOS_ToF10_U1W38,DevSet2_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T05:04:00,115.0,1.0,1
+157,PipelineTesting_RPOS_ToF10_U1W39,DevSet3_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T00:02:00,95.0,1.0,1
+158,PipelineTesting_RPOS_ToF10_U1W40,DevSet4_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T00:17:00,96.0,1.0,1
+159,PipelineTesting_RPOS_ToF10_U1W41,DevSet5_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T22:32:00,89.0,1.0,1
+160,PipelineTesting_RPOS_ToF10_U1W42,DevSet6_Rep6,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T04:34:00,113.0,1.0,1
+161,PipelineTesting_RPOS_ToF10_U1W43,DevSet1_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T15:46:00,151.0,1.0,1
+162,PipelineTesting_RPOS_ToF10_U1W44,DevSet2_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T09:50:00,134.0,1.0,1
+163,PipelineTesting_RPOS_ToF10_U1W45,DevSet3_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T06:04:00,119.0,1.0,1
+164,PipelineTesting_RPOS_ToF10_U1W46,DevSet4_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T17:15:00,68.0,1.0,1
+165,PipelineTesting_RPOS_ToF10_U1W47_LTR,External Reference 4,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-19T01:03:00,99.0,1.0,1
+166,PipelineTesting_RPOS_ToF10_U1W48_SR,Study Pool 04,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T02:33:00,105.0,1.0,1
+167,PipelineTesting_RPOS_ToF10_U1W49,DevSet5_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-19T03:18:00,108.0,1.0,1
+168,PipelineTesting_RPOS_ToF10_U1W50,DevSet6_Rep7,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-18T19:31:00,77.0,1.0,1
+169,PipelineTesting_RPOS_ToF10_U1W51,DevSet1_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T16:31:00,154.0,1.0,1
+170,PipelineTesting_RPOS_ToF10_U1W52,DevSet2_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T01:33:00,101.0,1.0,1
+171,PipelineTesting_RPOS_ToF10_U1W53,DevSet3_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T15:00:00,148.0,1.0,1
+172,PipelineTesting_RPOS_ToF10_U1W54,DevSet4_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T02:18:00,104.0,1.0,1
+173,PipelineTesting_RPOS_ToF10_U1W55,DevSet5_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-19T07:20:00,124.0,1.0,1
+174,PipelineTesting_RPOS_ToF10_U1W56_b,DevSet6_Rep8,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T13:15:00,141.0,1.0,1
+175,PipelineTesting_RPOS_ToF10_U1W57,DevSet1_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-18T18:30:00,73.0,1.0,1
+176,PipelineTesting_RPOS_ToF10_U1W58,DevSet2_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T04:49:00,114.0,1.0,1
+177,PipelineTesting_RPOS_ToF10_U1W59_LTR,External Reference 5,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-19T04:04:00,111.0,1.0,1
+178,PipelineTesting_RPOS_ToF10_U1W60_SR,Study Pool 05,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T05:34:00,117.0,1.0,1
+179,PipelineTesting_RPOS_ToF10_U1W61,DevSet3_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T04:19:00,112.0,1.0,1
+180,PipelineTesting_RPOS_ToF10_U1W62,DevSet4_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T07:50:00,126.0,1.0,1
+181,PipelineTesting_RPOS_ToF10_U1W63_b,DevSet5_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-19T13:45:00,143.0,1.0,1
+182,PipelineTesting_RPOS_ToF10_U1W64,DevSet6_Rep9,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-18T17:00:00,67.0,1.0,1
+183,PipelineTesting_RPOS_ToF10_U1W65,DevSet1_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T14:00:00,144.0,1.0,1
+184,PipelineTesting_RPOS_ToF10_U1W66,DevSet2_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-18T18:00:00,71.0,1.0,1
+185,PipelineTesting_RPOS_ToF10_U1W67,DevSet3_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T06:49:00,122.0,1.0,1
+186,PipelineTesting_RPOS_ToF10_U1W68,DevSet4_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T08:50:00,130.0,1.0,1
+187,PipelineTesting_RPOS_ToF10_U1W69,DevSet5_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T16:45:00,66.0,1.0,1
+188,PipelineTesting_RPOS_ToF10_U1W70,DevSet6_Rep10,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T01:18:00,100.0,1.0,1
+189,PipelineTesting_RPOS_ToF10_U1W71_LTR,External Reference 6,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-19T07:05:00,123.0,1.0,1
+190,PipelineTesting_RPOS_ToF10_U1W72_SR,Study Pool 06,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T08:35:00,129.0,1.0,1
+191,PipelineTesting_RPOS_ToF10_U1W73,DevSet1_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T16:46:00,155.0,1.0,1
+192,PipelineTesting_RPOS_ToF10_U1W74,DevSet2_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T17:01:00,156.0,1.0,1
+193,PipelineTesting_RPOS_ToF10_U1W75,DevSet3_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T09:35:00,133.0,1.0,1
+194,PipelineTesting_RPOS_ToF10_U1W76,DevSet4_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T21:31:00,85.0,1.0,1
+195,PipelineTesting_RPOS_ToF10_U1W77,DevSet5_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T20:16:00,80.0,1.0,1
+196,PipelineTesting_RPOS_ToF10_U1W78,DevSet6_Rep11,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T08:05:00,127.0,1.0,1
+197,PipelineTesting_RPOS_ToF10_U1W79,DevSet1_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T15:30:00,150.0,1.0,1
+198,PipelineTesting_RPOS_ToF10_U1W80,DevSet2_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-19T00:47:00,98.0,1.0,1
+199,PipelineTesting_RPOS_ToF10_U1W81,DevSet3_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-19T17:46:00,159.0,1.0,1
+200,PipelineTesting_RPOS_ToF10_U1W82,DevSet4_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-19T06:34:00,121.0,1.0,1
+201,PipelineTesting_RPOS_ToF10_U1W83_LTR,External Reference 7,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-19T10:06:00,135.0,1.0,1
+202,PipelineTesting_RPOS_ToF10_U1W84_SR,Study Pool 07,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T14:30:00,146.0,1.0,1
+203,PipelineTesting_RPOS_ToF10_U1W85,DevSet5_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T18:45:00,74.0,1.0,1
+204,PipelineTesting_RPOS_ToF10_U1W86,DevSet6_Rep12,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-19T03:03:00,107.0,1.0,1
+205,PipelineTesting_RPOS_ToF10_U1W87,DevSet1_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet1,2018-01-19T09:20:00,132.0,1.0,1
+206,PipelineTesting_RPOS_ToF10_U1W88,DevSet2_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet2,2018-01-18T20:01:00,79.0,1.0,1
+207,PipelineTesting_RPOS_ToF10_U1W89,DevSet3_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet3,2018-01-18T21:16:00,84.0,1.0,1
+208,PipelineTesting_RPOS_ToF10_U1W90,DevSet4_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet1v2,2018-01-18T22:17:00,88.0,1.0,1
+209,PipelineTesting_RPOS_ToF10_U1W91,DevSet5_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet1v3,2018-01-18T18:15:00,72.0,1.0,1
+210,PipelineTesting_RPOS_ToF10_U1W92,DevSet6_Rep13,Assay,Study Sample,Study Sample,50.0,DevSet2v3,2018-01-18T16:15:00,64.0,1.0,1
+211,PipelineTesting_RPOS_ToF10_U1W95_LTR,External Reference 8,Precision Reference,External Reference,Long-Term Reference,50.0,External Reference,2018-01-19T16:01:00,152.0,1.0,1
+212,PipelineTesting_RPOS_ToF10_U1W96_SR,Study Pool 08,Precision Reference,Study Pool,Study Reference,50.0,Study Pool,2018-01-19T17:31:00,158.0,1.0,1
