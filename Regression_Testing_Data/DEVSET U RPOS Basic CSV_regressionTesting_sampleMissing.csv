@@ -1,6 +1,5 @@
 Sample ID,Sample File Name,AssayRole,SampleType,SampleClass,Dilution,Include Sample,Class,Acquired Time,Detector,Run Order,Correction Batch
 Missing Data,PipelineTesting_RPOS_ToF10_U1W97,Assay,Study Sample,Study Sample,50,TRUE,,20/01/2018 07:21,3139,213,1
-Missing Info,PipelineTesting_RPOS_ToF10_U1W98,,,,,TRUE,,,,,
 ,PipelineTesting_RPOS_ToF10_B1SRD01,Linearity Reference,Study Pool,Linearity Reference,1,TRUE,,18/01/2018 02:25,3053,12,1
 ,PipelineTesting_RPOS_ToF10_B1SRD02,Linearity Reference,Study Pool,Linearity Reference,1,TRUE,,18/01/2018 02:40,3054,13,1
 ,PipelineTesting_RPOS_ToF10_B1SRD03,Linearity Reference,Study Pool,Linearity Reference,1,TRUE,,18/01/2018 02:55,3055,14,1
